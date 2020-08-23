@@ -1,6 +1,4 @@
 import React from "react";
-import { resolve } from "path";
-import { rejects } from "assert";
 
 const Auth = ({ appName }) => {
   return (
